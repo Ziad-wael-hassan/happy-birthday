@@ -17,20 +17,30 @@ class Quote {
 List<Quote> quotes = [
   Quote(
     title: '''
-        هلا يا حبي عامله ايه 
-        طمنيني عليكي عامله ايه 
-        انا عارف انك كويسة وبخير وشاطرة وقوية زي على طول 
-        كل سنه وانتي طيبة وبخير وبصحة وسلامه يارب 
-        كل سنه وانتي بتحققي حاجه جديده نفسك فيها وبتبقي احسن وافضل في كل حاجه
-        كل سنه وانتي بتقربي مني يوم بيوم علشان نبقا مع بعض 
-        انا عارف انك قد اي صعوبات وقد اي مشاكل بتواجهك في حياتك علشان انا حبيت بنوتة قوية جدا وملتزمه جدا ومحترمه جدا 
-        عارف انك شاطرة في مذاكرتك وحياتك وهتطلعي الاولى دايما 
-        وعارف انك دايما طيبة وحنونة وبتحبي الخير لأي حد حواليكي 
-        بس متخليش ده يخلي الناس تضحك عليكي خليكي واعيه برضو 
-        واعرفي اني دايما معاكي وجنبك في كل لحظه 
-        وعلشان اثبتلك ده عملتلك الابلكيشن ده علشان دايما تدخلي تشوفيه وتعرفي اني دايما معاكي في كل لحظة واني جنبك ودايما بحاول علشانك وبدعيلك 
-        ربنا يحميكي ويوفقك ويسترها معاكي دايما يارب وعليكي ويبعد عنك 
-       ❤ كل شر واذى وسوء يارب بحبك اوي 
+       example text
+      Artificial Intelligence (AI) has rapidly evolved over the past few decades, transforming industries and redefining the way humans interact with technology. From voice assistants to self-driving cars, AI has made its presence felt in almost every aspect of daily life. However, its future holds even more significant advancements that could reshape the global landscape.
+
+The Evolution of AI
+AI's journey began with simple rule-based systems, where computers followed predefined instructions. As machine learning and deep learning emerged, AI systems became more capable of recognizing patterns, making predictions, and automating complex tasks. Today, AI models, such as ChatGPT and DALL·E, showcase the ability to generate human-like text and images, pushing the boundaries of what machines can achieve.
+
+The Impact on Industries
+AI is revolutionizing multiple sectors:
+
+Healthcare: AI-powered diagnostic tools assist doctors in detecting diseases earlier, while robotic surgeries increase precision and reduce risks. Personalized treatment plans based on AI-driven data analysis enhance patient care.
+
+Finance: Banks and financial institutions use AI to detect fraudulent transactions, assess credit risks, and automate trading decisions, leading to more efficient and secure financial systems.
+
+Education: AI-driven platforms provide personalized learning experiences, adapting to students' strengths and weaknesses. Virtual tutors and AI-powered grading systems reduce the workload on educators.
+
+Transportation: Autonomous vehicles are becoming a reality, promising safer and more efficient transportation. AI optimizes traffic flow and reduces congestion in smart cities.
+
+Entertainment: AI generates music, art, and even movie scripts. Streaming services use AI to recommend content based on user preferences, enhancing user experience.
+
+Ethical and Societal Challenges
+Despite its benefits, AI raises concerns about privacy, bias, and job displacement. The automation of tasks threatens traditional employment structures, requiring societies to adapt through reskilling programs. Additionally, AI's decision-making processes must be transparent to avoid reinforcing societal biases.
+
+The Road Ahead
+As AI continues to advance, researchers are exploring artificial general intelligence (AGI) – a level of AI that can perform any intellectual task that a human can. While AGI remains theoretical, its potential raises questions about human-AI coexistence. Collaboration between policymakers, researchers, and industry leaders is crucial to ensuring AI's development benefits humanity while addressing its risks.
     ''',
     imageUrl: "assets/quotes_bg/q-happy-birthday.jpg",
     quote: "zizo",
